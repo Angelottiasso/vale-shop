@@ -65,6 +65,9 @@
 
 .price-cart {
     display: flex;
+    p {
+        margin-top: 0.5rem;
+    }
 }
 
 .product-list-info {
